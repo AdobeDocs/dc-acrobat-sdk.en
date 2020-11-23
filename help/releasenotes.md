@@ -15,7 +15,7 @@ The Acrobat SDK is a set of tools that help you develop software that interacts 
 
 >[!TIP]
 >
->The Acrobat DC SDK provides a large number of sample applications, plug-ins, and scripts to demonstrate how to use the SDK technologies. Reviewing the samples and [Link me Guide to SDK Samples](<https://www.adobe.com) may help you choose  JavaScript, plug-ins, or IAC functionality for a particular implementation.
+>The Acrobat DC SDK provides a large number of sample applications, plug-ins, and scripts to demonstrate how to use the SDK technologies. Reviewing the samples and [Link me Guide to SDK Samples](https://www.adobe.com) may help you choose  JavaScript, plug-ins, or IAC functionality for a particular implementation.
 
 Insert doc roadmap diagram
 
