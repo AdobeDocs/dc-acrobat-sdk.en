@@ -1,8 +1,8 @@
 ---
 title: Overview
 description: This is the article overview.
+exl-id: 86a2feca-89d8-4b1a-968b-7e3247b590d4
 ---
-
 # 32-bit Acrobat DC SDK
 
 Welcome to the 2020 32-bit Acrobat DC SDK!
