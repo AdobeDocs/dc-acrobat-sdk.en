@@ -1,6 +1,6 @@
 ---
 user-guide-title: Adobe Acrobat DC SDK documentation
-solution: Acrobat DC SDK
+solution: Acrobat DC
 ---
 
 # Acrobat DC SDK Documentation {#using}
